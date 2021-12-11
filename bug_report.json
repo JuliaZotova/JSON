@@ -1,5 +1,5 @@
 {
-//Bug Report Template
+"Bug Report": "sample",
 	"Bug ID": 633,
 	"Bug Name": "CART - Unable to add new item to my cart", 
 	"Summary": "When my cart contains one item, I am unable to add a second item via the add to cart button on a product page",
